@@ -1,62 +1,103 @@
-# Hi, I'm Rahil 👋
+<div align="center">
  
-**Aeronautical Engineer · Senior Product Owner · AI Builder**  
-London · he/him
+![header](./header.svg)
  
----
+</div>
  
-## About
+<div align="center">
  
-My foundation is aeronautical engineering — which taught me to treat complex systems with rigour: mapping failure modes, thinking in feedback loops, and defaulting to pragmatic over perfect.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahilpopat)
+[![Location](https://img.shields.io/badge/London-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Building](https://img.shields.io/badge/Building_AI_Agents-7700ff?style=for-the-badge&logo=anthropic&logoColor=white)](#)
  
-That lens carried into a decade in financial services as a Senior Product Owner — working at the intersection of emerging technology and strategy across digital assets, tokenisation, and innovation programmes where the constraints were just as tight and the stakes just as real. That's still my day job.
+</div>
  
-Now I apply all of it to building AI agents. The tools changed. The discipline didn't.
+<br>
  
----
+![divider](./divider.svg)
  
-## What I'm doing now
+<br>
  
-AI is moving fast — and I'm **learning in public**.
+## `> about.me`
  
-Every project, decision, and dead end gets documented here, because the best way to help other PMs and engineers navigate this space is to show the journey, not just the destination.
+> My foundation is **aeronautical engineering** — which taught me to treat complex systems with rigour: mapping failure modes, thinking in feedback loops, and defaulting to pragmatic over perfect.
+>
+> That lens carried into a decade in **financial services as a Product Owner**, working at the intersection of emerging technology and strategy — across digital assets, tokenisation, and innovation programmes where the constraints were just as tight and the stakes just as real.
+>
+> Now I apply all of it to **building AI agents**. The tools changed. The discipline didn't.
  
----
+<br>
  
-## Background
+![divider](./divider.svg)
  
-| | |
-|---|---|
-| 🛩️ **Foundation** | Aeronautical Engineering |
-| 🏦 **Currently** | Senior Product Owner · Financial Services |
-| 🤖 **Now** | Building AI agents |
+<br>
  
----
+## `> background`
  
-## Tech & Tools
+<div align="center">
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+| 🛩️ | **Foundation** | Aeronautical Engineering |
+|:---:|:---|:---|
+| 🏦 | **Currently** | Product Owner · Financial Services |
+| 🤖 | **Building** | AI Agents |
+| 📍 | **Location** | London |
  
----
+</div>
  
-## What you'll find here
+<br>
  
-- **AI agent projects** — built from scratch, documented as I go
-- **PM × AI experiments** — applying product thinking to AI workflows
-- **Dead ends included** — because those are often more useful than the wins
+![divider](./divider.svg)
  
----
+<br>
  
-## Connect
+## `> learning_in_public`
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahilpopat)
+```
+AI is moving fast — and I'm learning in public.
  
----
+Every project, decision, and dead end gets documented here.
+The best way to help other PMs and engineers navigate this space
+is to show the journey, not just the destination.
+```
  
-*Senior Product Manager · Aeronautical Engineer · AI Builder · Based in London*
+<br>
+ 
+![divider](./divider.svg)
+ 
+<br>
+ 
+## `> what_you_find_here`
+ 
+🤖 &nbsp;**AI agent projects** — built from scratch, documented as I go
+ 
+🧪 &nbsp;**PM × AI experiments** — applying product thinking to AI workflows
+ 
+💥 &nbsp;**Dead ends included** — because those are often more useful than the wins
+ 
+<br>
+ 
+![divider](./divider.svg)
+ 
+<br>
+ 
+## `> tech_stack`
+ 
+<div align="center">
+ 
+![Python](https://img.shields.io/badge/Python-050d1f?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-050d1f?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![React](https://img.shields.io/badge/React-050d1f?style=for-the-badge&logo=react&logoColor=00d4ff)
+![Node.js](https://img.shields.io/badge/Node.js-050d1f?style=for-the-badge&logo=nodedotjs&logoColor=00d4ff)
+![Claude](https://img.shields.io/badge/Claude_API-050d1f?style=for-the-badge&logo=anthropic&logoColor=7700ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-050d1f?style=for-the-badge&logo=openai&logoColor=7700ff)
+ 
+</div>
+ 
+<br>
+ 
+![divider](./divider.svg)
+ 
+<div align="center">
+<sub><sup>Product Owner · Aeronautical Engineer · AI Geek · London</sup></sub>
+</div>
  
