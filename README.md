@@ -24,7 +24,7 @@
 >
 > That lens carried into a decade in **financial services as a Product Owner**, working at the intersection of emerging technology and strategy — across digital assets, tokenisation, and innovation programmes where the constraints were just as tight and the stakes just as real.
 >
-> Now I apply all of it to **building AI agents**. The tools changed. The discipline didn't.
+> Now I apply all of it to **building AI agents**. The tools have changed. The discipline didn't.
  
 <br>
  
